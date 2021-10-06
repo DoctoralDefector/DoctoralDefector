@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoctoralDefector
-- 👀 I’m interested in chemistry & machine learning
+- 👀 I’m interested in chemistry, AI and machine learning.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on computational chemistry projects using ML and/or AI
 - 📫 How to reach me ...
 
 <!---

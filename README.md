@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DoctoralDefector
-- 👀 I’m interested in chemistry, AI and machine learning.
+- 👀 I’m interested in natural sciences, chemistry, software engineering, AI and machine learning.
 - 🌱 I’m currently going back to school for Computer Science and I hope to merge my chemistry background with my new interests.
-- 💞️ I’m looking to collaborate on computational chemistry projects using ML and/or AI
-- 📫 How to reach me ...
+- 💞️ I’m looking to break into the tech industry as a software engineer or data analysts.
+- 📫 How to reach me: bgerold23@gmail.com
 
 <!---
 DoctoralDefector/DoctoralDefector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
